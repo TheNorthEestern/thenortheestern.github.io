@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://TheNorthEestern.github.io/atom.xml" rel="self"/>
   <link href="http://TheNorthEestern.github.io/"/>
-  <updated>2013-10-11T22:44:07-04:00</updated>
+  <updated>2013-10-11T23:04:50-04:00</updated>
   <id>http://TheNorthEestern.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rebooting My Blog Yet Again!]]></title>
+    <link href="http://TheNorthEestern.github.io/blog/2013/10/11/rebooting-my-blog-yet-again/"/>
+    <updated>2013-10-11T22:48:00-04:00</updated>
+    <id>http://TheNorthEestern.github.io/blog/2013/10/11/rebooting-my-blog-yet-again</id>
+    <content type="html"><![CDATA[<p>This is the first post of my new blog</p>
+]]></content>
+  </entry>
   
 </feed>
