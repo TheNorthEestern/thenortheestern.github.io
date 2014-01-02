@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[UV Bakery]]></title>
-  <link href="http://TheNorthEestern.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: bandwidth | UV Bakery]]></title>
+  <link href="http://TheNorthEestern.github.io/blog/categories/bandwidth/atom.xml" rel="self"/>
   <link href="http://TheNorthEestern.github.io/"/>
   <updated>2014-01-02T15:25:10-05:00</updated>
   <id>http://TheNorthEestern.github.io/</id>
@@ -19,15 +19,6 @@
     <updated>2014-01-02T15:14:00-05:00</updated>
     <id>http://TheNorthEestern.github.io/blog/2014/01/02/game-programming</id>
     <content type="html"><![CDATA[<p>Save tons of bandwidth with gfycat. <a href="http://gfycat.com/about">Short, looped, soundless video moments, with optional GIF fallbacks</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rebooting My Blog Yet Again!]]></title>
-    <link href="http://TheNorthEestern.github.io/blog/2013/10/11/rebooting-my-blog-yet-again/"/>
-    <updated>2013-10-11T22:48:00-04:00</updated>
-    <id>http://TheNorthEestern.github.io/blog/2013/10/11/rebooting-my-blog-yet-again</id>
-    <content type="html"><![CDATA[<p>This is the first post of my new blog</p>
 ]]></content>
   </entry>
   
