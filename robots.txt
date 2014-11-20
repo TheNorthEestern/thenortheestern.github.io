@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://TheNorthEestern.github.io/sitemap.xml 
