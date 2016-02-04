@@ -102,7 +102,7 @@
 		Set your background with this
 		background: #348cb2 url("images/bg.jpg") bottom left; */
 		background-repeat: repeat-x;
-    background-color: rgb(243,80, 83);
+    background-color: #333;
 		height: 100%;
 		left: 0;
 		opacity: 1;
